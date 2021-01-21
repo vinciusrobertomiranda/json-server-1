@@ -10,7 +10,7 @@
             "localAmount": 234.9,
             "feeAmount": 1.64,
             "typeOperation": 0
-       },
+       }
   ],
   "profile": {
     "name": "typicode"
