@@ -45,9 +45,8 @@
     "typeOperation": 20,
     "bankCode": "1",
     "agencyCode ": "4362-1",
-    "accountCode": "5237-X",
+    "accountCode": "5237-X"
   },
-
  {
     "history": "Coobrigação efetivada TOTVS Antecipa",
     "creditUnits": [],
@@ -60,7 +59,7 @@
     "typeOperation": 20,
     "bankCode": "1",
     "agencyCode ": "4362-1",
-    "accountCode": "5237-X",
+    "accountCode": "5237-X"
   }
   ],
   "profile": {
