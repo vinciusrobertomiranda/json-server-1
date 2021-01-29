@@ -88,6 +88,54 @@
             "typeOperation": 0
        }
   ],
+   "mesmoTransVenda":[
+           {
+            "history": "Coobrigação efetivada TOTVS Antecipa",
+            "creditUnits": [],
+            "operation": 0,
+            "platformId": "5586f50b-3262-48b8-bd2a-92e59be4dfdd",
+            "erpId": "01002031461504",
+            "date": "20200728",
+            "localAmount": 234.9,
+            "feeAmount": 1.64,
+            "typeOperation": 0
+       },
+        {
+            "history": "Coobrigação efetivada TOTVS Antecipa",
+            "creditUnits": [],
+            "operation": 0,
+            "platformId": "5586f50b-3262-48b8-bd2a-92e59be4dfdd",
+            "erpId": "01002031461502",
+            "date": "20200728",
+            "localAmount": 298.9,
+            "feeAmount": 3.78,
+            "typeOperation": 0
+       }
+  ],
+   "mesmaPrest":[
+           {
+            "history": "Coobrigação efetivada TOTVS Antecipa",
+            "creditUnits": [],
+            "operation": 0,
+            "platformId": "5586f50b-3262-48b8-bd2a-92e59be4dfdd",
+            "erpId": "01000177756701",
+            "date": "20200728",
+            "localAmount": 234.9,
+            "feeAmount": 1.64,
+            "typeOperation": 0
+       },
+                {
+            "history": "Coobrigação efetivada TOTVS Antecipa",
+            "creditUnits": [],
+            "operation": 0,
+            "platformId": "5586f50b-3262-48b8-bd2a-92e59be4dfdd",
+            "erpId": "01000177742501",
+            "date": "20200728",
+            "localAmount": 1234.9,
+            "feeAmount": 3.64,
+            "typeOperation": 0
+       }
+  ],
   "profile": {
     "name": "typicode"
   }
