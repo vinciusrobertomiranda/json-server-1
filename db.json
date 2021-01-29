@@ -100,7 +100,7 @@
             "feeAmount": 1.64,
             "typeOperation": 0
        },
-                {
+       {
             "history": "Coobrigação efetivada TOTVS Antecipa",
             "creditUnits": [],
             "operation": 0,
@@ -112,7 +112,7 @@
             "typeOperation": 0
        }
   ],
-  "oblivion":[
+  "prestDiferente":[
            {
             "history": "Coobrigação efetivada TOTVS Antecipa",
             "creditUnits": [],
