@@ -30,6 +30,7 @@
     "erpId": "01000177919905",
     "date": "20200728",
     "localAmount": 234.9,
+    "feeAmount": 3.70,
     "typeOperation": 2,
     "bankCode": "1",
     "agencyCode ": "4362-1",
