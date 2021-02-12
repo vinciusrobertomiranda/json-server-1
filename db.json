@@ -3,6 +3,16 @@
      {
     "history": "Implantação de antecipação",
     "creditUnits": [],
+    "operation": 1,
+    "platformId": "5586f50b-3262-48b8-bd2a-92e59be4dfdd",
+    "erpId": "01000177933203",
+    "date": "20200728",
+    "localAmount": 235.9,
+    "feeAmount": 2.64,
+    "typeOperation": 2
+  },{
+    "history": "Implantação de antecipação",
+    "creditUnits": [],
     "operation": 0,
     "platformId": "5586f50b-3262-48b8-bd2a-92e59be4dfdd",
     "erpId": "01000177934003",
