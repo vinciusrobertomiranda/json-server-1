@@ -13,7 +13,7 @@
             "typeOperation": 0
        },
             {
-            "history": "Baixa efetivada TOTVS Antecipa",
+            "history": "Implantação de antecipação",
             "creditUnits": [],
             "operation": 20,
             "platformId": "5586f50b-3262-48b8-bd2a-92e59be4dfdd",
@@ -21,7 +21,7 @@
             "date": "20200728",
             "localAmount": 234.9,
             "feeAmount": 1.64,
-            "typeOperation": 1,
+            "typeOperation": 2,
              "bankCode": "1",
              "agencyCode ": "4362-1",
              "accountCode": "5237-X"
