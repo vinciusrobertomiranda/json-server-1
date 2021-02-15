@@ -1,58 +1,6 @@
 {
   "antecipacao": [
-     {
-    "history": "Implantação de antecipação",
-    "creditUnits": [],
-    "operation": 0,
-    "platformId": "5586f50b-3262-48b8-bd2a-92e59be4dfdd",
-    "erpId": "01000177933203",
-    "date": "20200728",
-    "localAmount": 235.8,
-    "feeAmount": 2.64,
-    "typeOperation": 2
-  },
-  {
-    "history": "Implantação de antecipação",
-    "creditUnits": [],
-    "operation": 1,
-    "platformId": "5586f50b-3262-48b8-bd2a-92e59be4dfdd",
-    "erpId": "01000177911510",
-    "date": "20200728",
-    "localAmount": 234.9,
-    "feeAmount": 1.64,
-    "typeOperation": 2
-  },
-  {
-    "history": "Implantação de antecipação",
-    "creditUnits": [],
-    "operation": 20,
-    "platformId": "5586f50b-3262-48b8-bd2a-92e59be4dfdd",
-    "erpId": "01000177919905",
-    "date": "20200728",
-    "localAmount": 234.9,
-    "feeAmount": 3.70,
-    "typeOperation": 2,
-    "bankCode": "1",
-    "agencyCode ": "4362-1",
-    "accountCode": "5237-X"
-  },
-  {
-    "history": "Implantação de antecipação",
-    "creditUnits": [],
-    "operation": 20,
-    "platformId": "5586f50b-3262-48b8-bd2a-92e59be4dfdd",
-    "erpId": "99000177911510",
-    "date": "20200728",
-    "localAmount": 234.9,
-    "feeAmount": 2.38,
-    "typeOperation": 2,
-    "bankCode": "1",
-    "agencyCode ": "4362-1",
-    "accountCode": "5237-X"
-  }
-  ],
-   "baixa":[
-        {
+    {
             "history": "Baixa efetivada TOTVS Antecipa",
             "creditUnits": [],
             "operation": 0,
