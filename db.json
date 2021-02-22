@@ -15,9 +15,9 @@
             {
                "history": "Coobrigação efetivada",
                   "creditUnits": [],
-                  "operation": 20,
+                  "operation": 1,
                   "platformId": "5586f50b-3262-48b8-bd2a-92e59be4dfdd",
-                  "erpId": "01000177933201",
+                  "erpId": "01000177936601",
                   "date": "20200728",
                   "localAmount": 123.9,
                   "feeAmount": 3.58,
