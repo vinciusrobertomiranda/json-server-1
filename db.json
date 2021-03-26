@@ -2,14 +2,14 @@
   "antecipacao": [
     
         {
-            "history": "Baixa efetivada TOTVS Antecipa",
+            "history": "Antecipação TOTVS Antecipa",
             "creditUnits": [],
             "operation": 0,
             "platformId": "5586f50b-3262-48b8-bd2a-92e59be4dfdd",
-            "erpId": "01000177911510",
+            "erpId": "01000177943701",
             "date": "20200728",
-            "localAmount": 234.9,
-            "feeAmount": 1.64,
+            "localAmount": 584.11,
+            "feeAmount": 20.50,
             "typeOperation": 0
        },
             {
