@@ -1,32 +1,6 @@
 {
   "antecipacao": [
-    
-        {
-            "history": "Antecipação TOTVS Antecipa",
-            "creditUnits": [],
-            "operation": 0,
-            "platformId": "5586f50b-3262-48b8-bd2a-92e59be4dfdd",
-            "erpId": "01000177943701",
-            "date": "20200728",
-            "localAmount": 584.11,
-            "feeAmount": 20.50,
-            "typeOperation": 0
-       },
-            {
-               "history": "Coobrigação efetivada",
-                  "creditUnits": [],
-                  "operation": 0,
-                  "platformId": "5586f50b-3262-48b8-bd2a-92e59be4dfdd",
-                  "erpId": "01000177936601",
-                  "date": "20200728",
-                  "localAmount": 123.9,
-                  "feeAmount": 3.58,
-                  "typeOperation": 1,
-                  "bankCode": "1",
-                  "agencyCode ": "4362-1",
-                  "accountCode": "5237-X"
-       },
-                {
+         {
             "history": "Baixa efetivada TOTVS Antecipa",
             "creditUnits": [],
             "operation": 1,
