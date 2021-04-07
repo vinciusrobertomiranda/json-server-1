@@ -1,9 +1,41 @@
 {
   "antecipacao": [
          {
-            "history": "IMPL com 2-Credito: Antecipacao Implantação de antecipação",
+            "history": "Baixa",
             "creditUnits": [],
             "operation": 0,
+            "platformId": "5586f50b-3262-48b8-bd2a-92e59be4dfdd",
+            "erpId": "01000177811401",
+            "date": "20200728",
+            "localAmount": 4532.01,
+            "feeAmount": 1.64,
+            "typeOperation": 0,
+             "bankCode": "1",
+             "agencyCode ": "4362-1",
+             "accountCode": "5237-X"
+       }
+  ],
+  "conciliacao": [
+         {
+            "history": "IMPL com 2-Credito: Implantação de antecipação",
+            "creditUnits": [],
+            "operation": 20,
+            "platformId": "5586f50b-3262-48b8-bd2a-92e59be4dfdd",
+            "erpId": "01000177811401",
+            "date": "20200728",
+            "localAmount": 4532.01,
+            "feeAmount": 1.64,
+            "typeOperation": 0,
+             "bankCode": "1",
+             "agencyCode ": "4362-1",
+             "accountCode": "5237-X"
+       }
+  ],
+  "baixa": [
+         {
+            "history": "Baixa",
+            "creditUnits": [],
+            "operation": 1,
             "platformId": "5586f50b-3262-48b8-bd2a-92e59be4dfdd",
             "erpId": "01000177811401",
             "date": "20200728",
