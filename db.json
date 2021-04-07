@@ -1,9 +1,9 @@
 {
   "antecipacao": [
          {
-            "history": "Baixa efetivada TOTVS Antecipa",
+            "history": "IMPL com 2-Credito: Implantação de antecipação",
             "creditUnits": [],
-            "operation": 1,
+            "operation": 20,
             "platformId": "5586f50b-3262-48b8-bd2a-92e59be4dfdd",
             "erpId": "01000177811401",
             "date": "20200728",
