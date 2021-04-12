@@ -9,7 +9,7 @@
             "date": "20200728",
             "localAmount": 4532.01,
             "feeAmount": 1.64,
-            "typeOperation": 1,
+            "typeOperation": 0,
              "bankCode": "1",
              "agencyCode ": "4362-1",
              "accountCode": "5237-X"
@@ -25,7 +25,7 @@
             "date": "20200728",
             "localAmount": 4532.01,
             "feeAmount": 1.64,
-            "typeOperation": 0,
+            "typeOperation": 2,
              "bankCode": "1",
              "agencyCode ": "4362-1",
              "accountCode": "5237-X"
