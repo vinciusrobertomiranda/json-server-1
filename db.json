@@ -46,5 +46,18 @@
             "agencyCode": "865-7",
             "accountCode": "008765-7"
        }
+  ],
+  "estorno":[
+    {
+    "history": "Operação 2-Estorno da Baixa PARCIAL",
+    "creditUnits": [],
+    "operation": 2,
+    "platformId": "5586f50b-3262-48b8-bd2a-92e59be4dfdd",
+    "erpId": "01000177948301",
+    "date": "20200728",
+    "localAmount": 500.00,
+    "feeAmount": 51.6,
+    "typeOperation": 0
+  }
   ]
 }
