@@ -31,11 +31,11 @@
             "accountCode": "008765-7"
        }
   ],
-  "baixa": [
+  "estorno": [
          {
             "history": "Baixa parcial final",
             "creditUnits": [],
-            "operation": 1,
+            "operation": 2,
             "platformId": "5586f50b-3262-48b8-bd2a-92e59be4dfdd",
             "erpId": "01000177948301",
             "date": "20200728",
