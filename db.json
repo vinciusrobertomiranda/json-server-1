@@ -1,5 +1,5 @@
 {
-  "antecipacao": [
+  "automatico": [
          {
             "history": "Antecipação",
             "creditUnits": [],
@@ -13,10 +13,8 @@
              "bankCode": "001",
              "agencyCode": "865-7",
              "accountCode": "008765-7"
-       }
-  ],
-  "conciliacao": [
-         {
+       },
+       {
             "history": "IMPL com 2-Credito: Implantação de antecipação",
             "creditUnits": [],
             "operation": 20,
@@ -29,17 +27,30 @@
             "bankCode": "001",
             "agencyCode": "865-7",
             "accountCode": "008765-7"
-       }
-  ],
-  "estorno": [
-         {
-            "history": "Baixa parcial final",
+       },
+    {
+            "history": "Baixa total",
+            "creditUnits": [],
+            "operation": 1,
+            "platformId": "5586f50b-3262-48b8-bd2a-92e59be4dfdd",
+            "erpId": "01000177948301",
+            "date": "20200728",
+            "localAmount": 611.82,
+            "feeAmount": 0.00,
+            "typeOperation": 0,
+            "bankCode": "001",
+            "agencyCode": "865-7",
+            "accountCode": "008765-7"
+         },
+    
+    {
+            "history": "Estorno de baixa",
             "creditUnits": [],
             "operation": 2,
             "platformId": "5586f50b-3262-48b8-bd2a-92e59be4dfdd",
             "erpId": "01000177948301",
             "date": "20200728",
-            "localAmount": 50.00,
+            "localAmount": 611.82,
             "feeAmount": 0.00,
             "typeOperation": 0,
             "bankCode": "001",
