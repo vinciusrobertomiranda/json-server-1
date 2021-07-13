@@ -1,6 +1,6 @@
 {
   "automatico": [
-        {
+       {
 	"history": "Coobrigação efetivada TOTVS Antecipa",
 	"creditUnits":[],
 	"operation": 3,
@@ -11,17 +11,16 @@
 	"feeAmount": 2.85,
 	"typeOperation": 0
 },{
-	'history': '398654|Coobrigação efetivada',
-	'creditUnits':[],
-	'operation': 20,
-	'platformId': 'a0ea2ad1-a58e-4db8-b690-4c27c7f67b26',
-	'erpId': '01000177944201',
-	'date':'20210707',
-	'localAmount': 1463.85,
-	'feeAmount':0.0,
-	'bankCode': '341'
+	"history": "398654|Coobrigação efetivada",
+	"creditUnits":[],
+	"operation": 20,
+	"platformId": "a0ea2ad1-a58e-4db8-b690-4c27c7f67b26",
+	"erpId": "01000177944201",
+	"date":"20210707",
+	"localAmount": 1463.85,
+	"feeAmount":0.0,
+	"bankCode": "341"
 }
-
   ],
   "baixa":[
      {
