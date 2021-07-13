@@ -1,47 +1,27 @@
 {
   "automatico": [
-         {
-            "history": "Antecipação",
-            "creditUnits": [],
-            "operation": 0,
-            "platformId": "5586f50b-3262-48b8-bd2a-92e59be4dfdd",
-            "erpId": "01000177948301",
-            "date": "20200728",
-            "localAmount": 611.82,
-            "feeAmount": 1.64,
-            "typeOperation": 0,
-             "bankCode": "001",
-             "agencyCode": "865-7",
-             "accountCode": "008765-7"
-       },
-       {
-            "history": "IMPL com 2-Credito: Implantação de antecipação",
-            "creditUnits": [],
-            "operation": 20,
-            "platformId": "5586f50b-3262-48b8-bd2a-92e59be4dfdd",
-            "erpId": "01000177948301",
-            "date": "20200728",
-            "localAmount": 611.82,
-            "feeAmount": 0.00,
-            "typeOperation": 2,
-            "bankCode": "001",
-            "agencyCode": "865-7",
-            "accountCode": "008765-7"
-       },   
-    {
-            "history": "Estorno de baixa",
-            "creditUnits": [],
-            "operation": 2,
-            "platformId": "5586f50b-3262-48b8-bd2a-92e59be4dfdd",
-            "erpId": "01000177948301",
-            "date": "20200728",
-            "localAmount": 611.82,
-            "feeAmount": 0.00,
-            "typeOperation": 0,
-            "bankCode": "001",
-            "agencyCode": "865-7",
-            "accountCode": "008765-7"
-         }
+        {
+	'history': 'Coobrigação efetivada TOTVS Antecipa',
+	'creditUnits':[],''
+	'operation': 3,
+	'platformId': 'a0ea2ad1-a58e-4db8-b690-4c27c7f67b26',
+	'erpId': '01000177944201',
+	'date':'20210628',
+	'localAmount': 1461.0,
+	'feeAmount': 2.85,
+	'typeOperation': 0
+},{
+	'history': '398654|Coobrigação efetivada',
+	'creditUnits':[],''
+	'operation': 20,
+	'platformId': 'a0ea2ad1-a58e-4db8-b690-4c27c7f67b26',
+	'erpId': '01000177944201',
+	'date':'20210707',
+	'localAmount': 1463.85,
+	'feeAmount':0.0,
+	'bankCode': '341'
+}
+
   ],
   "baixa":[
      {
