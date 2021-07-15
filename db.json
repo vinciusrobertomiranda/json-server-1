@@ -14,18 +14,34 @@
   ],
   "baixa":[
      {
-            "history": "Baixa total",
+            "history": "Baixa Parcial",
             "creditUnits": [],
             "operation": 1,
             "platformId": "5586f50b-3262-48b8-bd2a-92e59be4dfdd",
-            "erpId": "01000177944201",
+            "erpId": "01000177948301",
             "date": "20200728",
-            "localAmount": 611.82,
+            "localAmount": 500,
             "feeAmount": 0.00,
             "typeOperation": 0,
             "bankCode": "001",
             "agencyCode": "865-7",
             "accountCode": "008765-7"
          }
-    ]
+    ],
+"estorno":[
+	    {
+            "history": "Estorno de baixa",
+            "creditUnits": [],
+            "operation": 2,
+            "platformId": "5586f50b-3262-48b8-bd2a-92e59be4dfdd",
+            "erpId": "01000177948301",
+            "date": "20200728",
+            "localAmount": 500,
+            "feeAmount": 0.00,
+            "typeOperation": 0,
+            "bankCode": "001",
+            "agencyCode": "865-7",
+            "accountCode": "008765-7"
+         }	
+]
 }
