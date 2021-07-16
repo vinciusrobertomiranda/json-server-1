@@ -43,5 +43,18 @@
             "agencyCode": "865-7",
             "accountCode": "008765-7"
          }	
-]
+],
+	"coobrigacao":[
+		{
+	"history": "Coobrigação efetivada TOTVS Antecipa",
+	"creditUnits":[],
+	"operation": 3,
+	"platformId": "a0ea2ad1-a58e-4db8-b690-4c27c7f67b26",
+	"erpId": "01000177944001",
+	"date":"20210628",
+	"localAmount": 1461.0,
+	"feeAmount": 0,
+	"typeOperation": 0
+}	
+	]
 }
