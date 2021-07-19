@@ -44,17 +44,33 @@
             "accountCode": "008765-7"
          }	
 ],
-	"coobrigacao":[
-		{
-	"history": "Coobrigação efetivada TOTVS Antecipa",
-	"creditUnits":[],
-	"operation": 3,
-	"platformId": "a0ea2ad1-a58e-4db8-b690-4c27c7f67b26",
-	"erpId": "01000177944001",
-	"date":"20210628",
-	"localAmount": 1461.0,
-	"feeAmount": 0,
-	"typeOperation": 0
-}	
-	]
+"coobrigacao":[
+	{
+		"history": "Coobrigação efetivada TOTVS Antecipa",
+		"creditUnits":[],
+		"operation": 3,
+		"platformId": "a0ea2ad1-a58e-4db8-b690-4c27c7f67b26",
+		"erpId": "01000177944001",
+		"date":"20210628",
+		"localAmount": 1461.0,
+		"feeAmount": 0,
+		"typeOperation": 0
+	}	
+],
+"antecipacao":[
+	{
+            "history": "Antecipação de recebíveis",
+            "creditUnits": [],
+            "operation": 1,
+            "platformId": "5586f50b-3262-48b8-bd2a-92e59be4dfdd",
+            "erpId": "01000177944005",
+            "date": "20200728",
+            "localAmount": 1368.15,
+            "feeAmount": 0.00,
+            "typeOperation": 0,
+            "bankCode": "001",
+            "agencyCode": "865-7",
+            "accountCode": "008765-7"
+        }	
+]
 }
