@@ -1,5 +1,5 @@
 {
-  "automatico": [
+  "conciliacao": [
       {
 	"history": "398654|Coobrigação efetivada",
 	"creditUnits":[],
@@ -7,7 +7,7 @@
 	"platformId": "a0ea2ad1-a58e-4db8-b690-4c27c7f67b26",
 	"erpId": "01000177944001",
 	"date":"20210707",
-	"localAmount": 1461,
+	"localAmount": 1463.85,
 	"feeAmount":0.0,
 	"bankCode": "341"
 }
@@ -53,7 +53,7 @@
 		"erpId": "01000177944001",
 		"date":"20210628",
 		"localAmount": 1461.0,
-		"feeAmount": 0,
+		"feeAmount": 2.85,
 		"typeOperation": 0
 	}	
 ],
