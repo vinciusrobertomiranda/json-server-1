@@ -7,10 +7,10 @@
 	"platformId": "a0ea2ad1-a58e-4db8-b690-4c27c7f67b26",
 	"erpId": "01000177944001",
 	"date":"20210707",
-	"localAmount": 1463.85,
+	"localAmount": 989.31,
 	"feeAmount":0.0,
 	"bankCode": "341"
-}
+	}
   ],
   "baixa":[
      {
@@ -52,8 +52,8 @@
 		"platformId": "a0ea2ad1-a58e-4db8-b690-4c27c7f67b26",
 		"erpId": "01000177944001",
 		"date":"20210628",
-		"localAmount": 1461.0,
-		"feeAmount": 2.85,
+		"localAmount": 987,
+		"feeAmount": 2.31,
 		"typeOperation": 0
 	}	
 ],
