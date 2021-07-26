@@ -7,8 +7,8 @@
 	"platformId": "a0ea2ad1-a58e-4db8-b690-4c27c7f67b26",
 	"erpId": "01000177931201",
 	"date":"20210707",
-	"localAmount": 347.54,
-	"feeAmount":0.0,
+	"localAmount": 340.00,
+	"feeAmount":3.54,
 	"bankCode": "341",
 	"agencyCode": "7218",
 	"accountCode": "27501-8"
